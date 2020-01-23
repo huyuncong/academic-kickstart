@@ -72,6 +72,7 @@ subtitle = ""
 +++
 
 
+* {JEDI}: Many-to-Many End-to-End Encryption and Key Delegation for IoT
 
 
 
