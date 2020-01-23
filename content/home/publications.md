@@ -72,7 +72,7 @@ subtitle = ""
 +++
 
 **Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**  
-Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (ordered alphabetically)
+Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (alphabetical order)  
 **EUROCRYPT 2020**
 
 **Ghostor:Toward a Secure Data-Sharing System from Decentralized Trust**  
