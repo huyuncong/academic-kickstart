@@ -72,15 +72,15 @@ subtitle = ""
 +++
 
 **Ghostor:Toward a Secure Data-Sharing System from Decentralized Trust**
-Yuncong Hu, Sam Kumar, and Raluca Ada Popa
+
+Yuncong Hu\*, Sam Kumar\*, and Raluca Ada Popa (co-primary author)
+ 
 **NSDI 2020**
   
  
 **JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT**
-  
-Sam Kumar, Yuncong Hu, Michael P Andersen, Raluca Ada Popa, and David E. Culler
-  
- **USENIX Security 2019**
+  Sam Kumar, Yuncong Hu, Michael P Andersen, Raluca Ada Popa, and David E. Culler
+  **USENIX Security 2019**
 
 
 
