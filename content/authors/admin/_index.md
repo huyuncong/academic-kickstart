@@ -73,7 +73,3 @@ user_groups:
 Hi! I am Yuncong Hu, a third-year CS PhD student at UC Berkeley. I am advised by Raluca Ada Popa and Alessandro Chiesa. I'm interested in applied cryptography, decentralized systems and zero knowledge proofs.
 
 I received my Bachelor degree from Shanghai Jiao Tong University where I was a member of the 2013 ACM Honored Class.
-
-# Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
