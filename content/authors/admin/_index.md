@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am Yuncong Hu, a third-year CS Ph.D. student at UC Berkeley. I am advised by [Raluca Ada Popa](https://people.eecs.berkeley.edu/~raluca/) and [Alessandro Chiesa](http://people.eecs.berkeley.edu/~alexch/). I am interested in applied cryptography, decentralized systems and zero knowledge proofs.
+Hi! I am a CS Ph.D. student in the UC Berkeley [RISE Lab](https://rise.cs.berkeley.edu/), where I am co-advised by [Raluca Ada Popa](https://people.eecs.berkeley.edu/~raluca/) and [Alessandro Chiesa](http://people.eecs.berkeley.edu/~alexch/). My recent research interests are applied cryptography, decentralized systems and zero knowledge proofs.
 
-I received my Bachelor degree from Shanghai Jiao Tong University in 2017 where I was a member of the [ACM Honored Class](https://acm.sjtu.edu.cn/home).
+I received my Bachelor degree at Shanghai Jiao Tong University in 2017 where I was a member of the [ACM Honored Class](https://acm.sjtu.edu.cn/home).
