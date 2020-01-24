@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am Yuncong Hu, a third-year CS PhD student at UC Berkeley. I am advised by Raluca Ada Popa and Alessandro Chiesa. I'm interested in applied cryptography, decentralized systems and zero knowledge proofs.
+Hi! I am Yuncong Hu, a third-year CS Ph.D. student at UC Berkeley. I am advised by Raluca Ada Popa and Alessandro Chiesa. I'm interested in applied cryptography, decentralized systems and zero knowledge proofs.
 
 I received my Bachelor degree from Shanghai Jiao Tong University where I was a member of the 2013 ACM Honored Class.
