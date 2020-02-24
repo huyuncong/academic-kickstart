@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. # Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include applied cryptography, decentralized systems, and zero-knowledge proofs.
 
 # interests:
-# - Applied Cryptography 
+# - Applied Cryptography
 # - Decentralized Systems
 # - Zero-knowledge Proofs
 
