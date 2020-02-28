@@ -75,7 +75,7 @@ subtitle = ""
 Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (alphabetical order)  
 **EUROCRYPT 2020**
 
-**Ghostor:Toward a Secure Data-Sharing System from Decentralized Trust**  
+**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust**  
 Yuncong Hu\*, Sam Kumar\*, and Raluca Ada Popa (\*co-primary author)  
 **NSDI 2020**
  
