@@ -71,8 +71,8 @@ subtitle = ""
 # {{% /alert %}}
 +++
 
-**Merkle^2: A Low-Latency Transparency Log System**
-Yuncong Hu, Kian Hooshmand\*, Harika Kalidhindi\*, Seung Jin Yang\*, Raluca Ada Popa (\* co-secondary author)
+**Merkle^2: A Low-Latency Transparency Log System**  
+Yuncong Hu, Kian Hooshmand\*, Harika Kalidhindi\*, Seung Jin Yang\*, Raluca Ada Popa (\* co-secondary author)  
 **IEEE Security and Privacy 2021**
 
 **Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**  
