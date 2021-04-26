@@ -67,3 +67,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[link](https://www.microsoft.com/en-us/research/event/microsoft-research-redmond-cryptography-colloquium/#!past-speakers)]  
+Tuesday, Aug 25, 2020  
+Microsoft Research Redmond Cryptography Colloquium  
