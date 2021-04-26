@@ -79,3 +79,7 @@ Microsoft Research Redmond Cryptography Colloquium
 **Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[link](https://www.youtube.com/watch?v=3mZWa6tJaMI)]  
 Wednesday, May 13, 2020  
 Eurocrypt 2020
+
+**End-to-End Encryption with Delegable Keys for Resource Hierarchies** [[link](http://iot.stanford.edu/nsf-final/index.html)]  
+Friday, July 13, 2018  
+Stanford Secure Internet of Things Project 2018
