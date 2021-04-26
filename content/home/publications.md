@@ -71,18 +71,18 @@ subtitle = ""
 # {{% /alert %}}
 +++
 
-**Merkle^2: A Low-Latency Transparency Log System** [paper]  
+**Merkle^2: A Low-Latency Transparency Log System** [paper](https://eprint.iacr.org/2021/453)  
 Yuncong Hu, Kian Hooshmand\*, Harika Kalidhindi\*, Seung Jin Yang\*, Raluca Ada Popa (\* co-secondary author)  
 **IEEE Security and Privacy 2021**
 
-**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**  [paper] [video]
+**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [paper](https://eprint.iacr.org/2019/1047)   
 Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (alphabetical order)  
 **EUROCRYPT 2020**
 
-**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust**  
+**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)  
 Yuncong Hu\*, Sam Kumar\*, and Raluca Ada Popa (\*co-primary author)  
 **NSDI 2020**
 
-**JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT**  
+**JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT** [paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)   
 Sam Kumar, Yuncong Hu, Michael P Andersen, Raluca Ada Popa, and David E. Culler  
 **USENIX Security 2019**
