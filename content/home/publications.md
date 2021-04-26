@@ -71,18 +71,19 @@ subtitle = ""
 # {{% /alert %}}
 +++
 
-**Merkle^2: A Low-Latency Transparency Log System** [[paper](https://eprint.iacr.org/2021/453)]  
+**Merkle^2: A Low-Latency Transparency Log System** [[paper](https://eprint.iacr.org/2021/453)]   
 Yuncong Hu, Kian Hooshmand\*, Harika Kalidhindi\*, Seung Jin Yang\*, Raluca Ada Popa (\* co-secondary author)  
 **IEEE Security and Privacy 2021**
 
-**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[paper](https://eprint.iacr.org/2019/1047)]   
+**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)]   
 Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (alphabetical order)  
 **EUROCRYPT 2020**
 
-**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)]  
+**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)]   
 Yuncong Hu\*, Sam Kumar\*, and Raluca Ada Popa (\*co-primary author)  
 **NSDI 2020**
 
-**JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT** [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]   
+**JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT** [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
+[[video](https://www.youtube.com/watch?v=r-5OZFerx9g)]   
 Sam Kumar, Yuncong Hu, Michael P Andersen, Raluca Ada Popa, and David E. Culler  
 **USENIX Security 2019**
