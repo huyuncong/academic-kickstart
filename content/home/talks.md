@@ -71,3 +71,7 @@ subtitle = ""
 **Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[link](https://www.microsoft.com/en-us/research/event/microsoft-research-redmond-cryptography-colloquium/#!past-speakers)]  
 Tuesday, Aug 25, 2020  
 Microsoft Research Redmond Cryptography Colloquium  
+
+**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[link](https://www.youtube.com/watch?v=3mZWa6tJaMI)]  
+Wednesday, May 13, 2020  
+Eurocrypt 2020
