@@ -68,6 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
+**Merkle^2: A Low-Latency Transparency Log System**  
+To appear  
+IEEE Security and Privacy (Oakland) 2021
+
 **Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[link](https://www.microsoft.com/en-us/research/event/microsoft-research-redmond-cryptography-colloquium/#!past-speakers)]  
 Tuesday, Aug 25, 2020  
 Microsoft Research Redmond Cryptography Colloquium  
