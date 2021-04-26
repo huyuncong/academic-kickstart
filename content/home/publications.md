@@ -71,11 +71,11 @@ subtitle = ""
 # {{% /alert %}}
 +++
 
-**Merkle^2: A Low-Latency Transparency Log System**  
+**Merkle^2: A Low-Latency Transparency Log System** [paper]  
 Yuncong Hu, Kian Hooshmand\*, Harika Kalidhindi\*, Seung Jin Yang\*, Raluca Ada Popa (\* co-secondary author)  
 **IEEE Security and Privacy 2021**
 
-**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**  
+**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**  [paper] [video]
 Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (alphabetical order)  
 **EUROCRYPT 2020**
 
