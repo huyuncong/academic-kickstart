@@ -72,7 +72,7 @@ subtitle = ""
 +++
 
 **Merkle^2: A Low-Latency Transparency Log System** [[paper](https://eprint.iacr.org/2021/453)] [[code](https://github.com/ucbrise/MerkleSquare)]   
-Yuncong Hu, Kian Hooshmand\*, Harika Kalidhindi\*, Seung Jin Yang\*, Raluca Ada Popa (\* co-secondary author)  
+*Yuncong Hu*, Kian Hooshmand\*, Harika Kalidhindi\*, Seung Jin Yang\*, Raluca Ada Popa (\* co-secondary author)  
 **IEEE Security and Privacy (Oakland) 2021**
 
 **Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]   
