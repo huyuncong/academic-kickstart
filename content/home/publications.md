@@ -76,14 +76,14 @@ subtitle = ""
 *IEEE Security and Privacy (Oakland) 2021*
 
 **Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]   
-Alessandro Chiesa, Yuncong Hu, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (alphabetical order)  
-**EUROCRYPT 2020**
+Alessandro Chiesa, **Yuncong Hu**, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward (alphabetical order)  
+*EUROCRYPT 2020*
 
 **Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)]   
-Yuncong Hu\*, Sam Kumar\*, and Raluca Ada Popa (\*co-primary author)  
-**NSDI 2020**
+**Yuncong Hu**\*, Sam Kumar\*, and Raluca Ada Popa (\*co-primary author)  
+*NSDI 2020*  
 
 **JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT** [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
 [[video](https://www.youtube.com/watch?v=r-5OZFerx9g)] [[code](https://github.com/ucbrise/jedi-protocol-go)]   
-Sam Kumar, Yuncong Hu, Michael P Andersen, Raluca Ada Popa, and David E. Culler  
-**USENIX Security 2019**
+Sam Kumar, **Yuncong Hu**, Michael P Andersen, Raluca Ada Popa, and David E. Culler  
+*USENIX Security 2019*
