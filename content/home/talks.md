@@ -68,7 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**Merkle^2: A Low-Latency Transparency Log System**  
+**Merkle^2: A Low-Latency Transparency Log System**
 [[link](https://www.youtube.com/watch?v=SdP4VRk-GD4)]  
 Monday, May 24, 2021
 IEEE Security and Privacy (Oakland) 2021
