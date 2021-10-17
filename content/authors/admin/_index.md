@@ -74,4 +74,4 @@ Hi! I am a CS Ph.D. student in the UC Berkeley [RISE Lab](https://rise.cs.berkel
 
 I received my Bachelor's degree at Shanghai Jiao Tong University in 2017, where I was a member of the [ACM Honored Class](https://acm.sjtu.edu.cn/home).
 
-I am a co-author of [arkworks](https://github.com/arkworks-rs) libraries, an ecosystem for developing and programming with zkSNARKs.
+I am a co-author of [arkworks](https://github.com/arkworks-rs), an ecosystem for developing and programming with zkSNARKs.
