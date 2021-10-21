@@ -71,8 +71,8 @@ subtitle = ""
 # {{% /alert %}}
 +++
 
-**Non-Interactive Differentially Anonymous Router**
-[[paper](https://eprint.iacr.org/2021/1242)]    
+**[Non-Interactive Differentially Anonymous Router(https://eprint.iacr.org/2021/1242)]**
+<!-- [[paper]]     -->
 (alphabetical order) Benedikt Bünz, *Yuncong Hu*, Shin’ichiro Matsuo and Elaine Shi   
 *In submission*     
 
