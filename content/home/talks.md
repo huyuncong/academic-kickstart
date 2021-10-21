@@ -68,19 +68,18 @@ subtitle = ""
  css_class = ""
 +++
 
-**Merkle^2: A Low-Latency Transparency Log System**
-[[link](https://www.youtube.com/watch?v=SdP4VRk-GD4)]  
-Monday, May 24, 2021  
-IEEE Security and Privacy (Oakland) 2021
+[Merkle^2: A Low-Latency Transparency Log System](https://www.youtube.com/watch?v=SdP4VRk-GD4)         
+Monday, May 24, 2021    
+**42nd IEEE Symposium on Security and Privacy (Oakland 2021)**           
 
-**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[link](https://www.microsoft.com/en-us/research/event/microsoft-research-redmond-cryptography-colloquium/#!past-speakers)]  
-Tuesday, Aug 25, 2020  
-Microsoft Research Redmond Cryptography Colloquium  
+[Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.microsoft.com/en-us/research/event/microsoft-research-redmond-cryptography-colloquium/#!past-speakers)       
+Tuesday, Aug 25, 2020   
+**Microsoft Research Redmond Cryptography Colloquium**      
 
-**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[link](https://www.youtube.com/watch?v=3mZWa6tJaMI)]  
-Wednesday, May 13, 2020  
-Eurocrypt 2020
+[Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**](https://www.youtube.com/watch?v=3mZWa6tJaMI)      
+Wednesday, May 13, 2020         
+**39th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2020)**        
 
-**End-to-End Encryption with Delegable Keys for Resource Hierarchies** [[link](http://iot.stanford.edu/nsf-final/index.html)]  
+[End-to-End Encryption with Delegable Keys for Resource Hierarchies](http://iot.stanford.edu/nsf-final/index.html)      
 Friday, July 13, 2018  
-Stanford Secure Internet of Things Project 2018
+**Stanford Secure Internet of Things Project 2018**     
