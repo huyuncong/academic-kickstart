@@ -92,7 +92,7 @@ subtitle = ""
 <!-- [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)] -->
 
 [Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)          
-(\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa
+(\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa      
 **17th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2020)**  
 
 <!-- [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
