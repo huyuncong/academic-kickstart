@@ -71,7 +71,7 @@ subtitle = ""
 # {{% /alert %}}
 +++
 
-**Non-Interactive Differentially Anonymous Router**(https://eprint.iacr.org/2021/1242) 
+[Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242)
 <!-- [[paper]]     -->
 (alphabetical order) Benedikt Bünz, *Yuncong Hu*, Shin’ichiro Matsuo and Elaine Shi   
 *In submission*     
@@ -84,11 +84,11 @@ subtitle = ""
 (alphabetical order) Alessandro Chiesa, *Yuncong Hu*, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward     
 *EUROCRYPT 2020*
 
-**Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust** [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)]   
-*Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa (\*co-primary author)  
-*NSDI 2020*  
+Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)]   
+(\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa
+**NSDI 2020**  
 
-**JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT** [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
+JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
 [[video](https://www.youtube.com/watch?v=r-5OZFerx9g)] [[code](https://github.com/ucbrise/jedi-protocol-go)]   
 Sam Kumar, *Yuncong Hu*, Michael P Andersen, Raluca Ada Popa, and David E. Culler  
-*USENIX Security 2019*
+**USENIX Security 2019**
