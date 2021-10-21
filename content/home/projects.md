@@ -75,11 +75,12 @@ subtitle = ""
  css_class = ""
 +++
 
-**Merkle^2: A Low-Latency Transparency Log System**     
+**Merkle^2: A Low-Latency Transparency Log System**           
 Published at Oakland 2021 (see above)    
 Relevant GitHub repositories: [Merkle^2](https://github.com/ucbrise/MerkleSquare)
 
-[arkworks: An ecosystem for developing and programming with zkSNARKs](https://github.com/arkworks-rs)   
+**arkworks: An ecosystem for developing and programming with zkSNARKs**      
+Relevant GitHub repositories: [arkworks](https://github.com/arkworks-rs)   
 
 [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://github.com/arkworks-rs/marlin)         
 Published at Eurocrypt 2020 (see above)
