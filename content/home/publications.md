@@ -89,11 +89,15 @@ subtitle = ""
 (alphabetical order) Alessandro Chiesa, *Yuncong Hu*, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward     
 **39th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2020)**
 
-Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)]   
-(\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa
-**NSDI 2020**  
+<!-- [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)] -->
 
-JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
-[[video](https://www.youtube.com/watch?v=r-5OZFerx9g)] [[code](https://github.com/ucbrise/jedi-protocol-go)]   
+[Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)          
+(\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa
+**17th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2020)**  
+
+<!-- [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
+[[video](https://www.youtube.com/watch?v=r-5OZFerx9g)] [[code](https://github.com/ucbrise/jedi-protocol-go)] -->
+
+[JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)        
 Sam Kumar, *Yuncong Hu*, Michael P Andersen, Raluca Ada Popa, and David E. Culler  
-**USENIX Security 2019**
+**28th USENIX Security Symposium (USENIX Security 2019)**
