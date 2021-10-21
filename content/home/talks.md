@@ -76,7 +76,7 @@ Monday, May 24, 2021
 Tuesday, Aug 25, 2020   
 **Microsoft Research Redmond Cryptography Colloquium**      
 
-[Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**](https://www.youtube.com/watch?v=3mZWa6tJaMI)      
+[Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://www.youtube.com/watch?v=3mZWa6tJaMI)      
 Wednesday, May 13, 2020         
 **39th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2020)**        
 
