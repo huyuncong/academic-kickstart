@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 53  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -78,6 +78,11 @@ subtitle = ""
 [Merkle^2: A Low-Latency Transparency Log System](https://github.com/ucbrise/MerkleSquare)     
 **Published at Oakland 2021 (see above)**    
 
+[arkworks](https://github.com/arkworks-rs)   
+**An ecosystem for developing and programming with zkSNARKs**
+
+[Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://github.com/arkworks-rs/marlin)         
+**Published at Eurocrypt 2020 (see above)**
 
 [JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT](https://github.com/ucbrise/jedi-protocol-go)          
 **Published at USENIX Security 2019 (see above)**
