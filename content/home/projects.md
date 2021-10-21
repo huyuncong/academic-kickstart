@@ -77,16 +77,16 @@ subtitle = ""
 
 **Merkle^2: A Low-Latency Transparency Log System**           
 Published at Oakland 2021 (see above)    
-Relevant GitHub repositories: [Merkle^2](https://github.com/ucbrise/MerkleSquare)
+Relevant GitHub repository: [Merkle^2](https://github.com/ucbrise/MerkleSquare)
 
 **arkworks: An ecosystem for developing and programming with zkSNARKs**      
 A rust library for zkSNARKs community       
-Relevant GitHub repositories: [arkworks](https://github.com/arkworks-rs)   
+Relevant GitHub repository: [arkworks](https://github.com/arkworks-rs)   
 
 **Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**         
 Published at Eurocrypt 2020 (see above)         
-Relevant GitHub repositories: [Marlin](https://github.com/arkworks-rs/marlin)
+Relevant GitHub repository: [Marlin](https://github.com/arkworks-rs/marlin)
 
 **JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT**          
 Published at USENIX Security 2019 (see above)       
-Relevant GitHub repositories: [JEDI](https://github.com/ucbrise/jedi-protocol-go)
+Relevant GitHub repository: [JEDI](https://github.com/ucbrise/jedi-protocol-go)
