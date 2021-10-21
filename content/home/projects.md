@@ -76,13 +76,12 @@ subtitle = ""
 +++
 
 [Merkle^2: A Low-Latency Transparency Log System](https://github.com/ucbrise/MerkleSquare)     
-**Published at Oakland 2021 (see above)**    
+Published at Oakland 2021 (see above)    
 
-[arkworks](https://github.com/arkworks-rs)   
-**An ecosystem for developing and programming with zkSNARKs**
+[arkworks: An ecosystem for developing and programming with zkSNARKs](https://github.com/arkworks-rs)   
 
 [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://github.com/arkworks-rs/marlin)         
-**Published at Eurocrypt 2020 (see above)**
+Published at Eurocrypt 2020 (see above)
 
 [JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT](https://github.com/ucbrise/jedi-protocol-go)          
-**Published at USENIX Security 2019 (see above)**
+Published at USENIX Security 2019 (see above)
