@@ -73,17 +73,21 @@ subtitle = ""
 <!-- [[paper]]     -->
 
 
-[Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242) 
+[Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242)     
 (alphabetical order) Benedikt Bünz, *Yuncong Hu*, Shin’ichiro Matsuo and Elaine Shi   
 **In submission**     
 
-**Merkle^2: A Low-Latency Transparency Log System** [[paper](https://eprint.iacr.org/2021/453)] [[video](https://www.youtube.com/watch?v=SdP4VRk-GD4)] [[code](https://github.com/ucbrise/MerkleSquare)]   
-*Yuncong Hu*, Kian Hooshmand, Harika Kalidhindi, Seung Jin Yang, Raluca Ada Popa    
-*IEEE Security and Privacy (Oakland) 2021*  
+<!-- [[paper](https://eprint.iacr.org/2021/453)] [[video](https://www.youtube.com/watch?v=SdP4VRk-GD4)] [[code](https://github.com/ucbrise/MerkleSquare)]    -->
 
-**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]   
+[Merkle^2: A Low-Latency Transparency Log System](https://eprint.iacr.org/2021/453)     
+*Yuncong Hu*, Kian Hooshmand, Harika Kalidhindi, Seung Jin Yang, Raluca Ada Popa    
+**42nd IEEE Symposium on Security and Privacy (Oakland 2021)**  
+
+<!-- [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]    -->
+
+[Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047)    
 (alphabetical order) Alessandro Chiesa, *Yuncong Hu*, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward     
-**Eurocrypt 2020**
+**39th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2020)**
 
 Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)]   
 (\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa
