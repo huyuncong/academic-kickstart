@@ -70,11 +70,12 @@ subtitle = ""
 # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 # {{% /alert %}}
 +++
-
-[Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242)
 <!-- [[paper]]     -->
+
+
+[Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242) 
 (alphabetical order) Benedikt Bünz, *Yuncong Hu*, Shin’ichiro Matsuo and Elaine Shi   
-*In submission*     
+**In submission**     
 
 **Merkle^2: A Low-Latency Transparency Log System** [[paper](https://eprint.iacr.org/2021/453)] [[video](https://www.youtube.com/watch?v=SdP4VRk-GD4)] [[code](https://github.com/ucbrise/MerkleSquare)]   
 *Yuncong Hu*, Kian Hooshmand, Harika Kalidhindi, Seung Jin Yang, Raluca Ada Popa    
@@ -82,7 +83,7 @@ subtitle = ""
 
 **Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS** [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]   
 (alphabetical order) Alessandro Chiesa, *Yuncong Hu*, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward     
-*EUROCRYPT 2020*
+**Eurocrypt 2020**
 
 Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)]   
 (\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa
