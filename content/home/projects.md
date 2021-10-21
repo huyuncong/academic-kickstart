@@ -80,11 +80,13 @@ Published at Oakland 2021 (see above)
 Relevant GitHub repositories: [Merkle^2](https://github.com/ucbrise/MerkleSquare)
 
 **arkworks: An ecosystem for developing and programming with zkSNARKs**      
-A rust library for zkSNARKs community   
+A rust library for zkSNARKs community       
 Relevant GitHub repositories: [arkworks](https://github.com/arkworks-rs)   
 
-[Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://github.com/arkworks-rs/marlin)         
-Published at Eurocrypt 2020 (see above)
+**Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS**         
+Published at Eurocrypt 2020 (see above)         
+Relevant GitHub repositories: [Marlin](https://github.com/arkworks-rs/marlin)
 
-[JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT](https://github.com/ucbrise/jedi-protocol-go)          
-Published at USENIX Security 2019 (see above)
+**JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT**          
+Published at USENIX Security 2019 (see above)       
+Relevant GitHub repositories: [JEDI](https://github.com/ucbrise/jedi-protocol-go)
