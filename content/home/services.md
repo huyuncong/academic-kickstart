@@ -68,15 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 
-TDSC 2021 Reviewer  
-Crypto 2021 Sub-reviewer
-
-PKC 2021 External Reviewer  
-SOSP 2021 External Reviewer  
-Oakland 2020 External Reviewer  
-SOSP 2019 External Reviewer  
-OSDI 2018 External Reviewer  
-NSDI 2018 External Reviewer  
+Reviewer: TDSC 2021, CRYPTO 2021, PKC 2021, SOSP 2021, Oakland 2020, SOSP 2019, OSDI 2018, NSDI 2018  
 
 FCS 2020 Student Volunteer  
 UC Berkeley Security Reading Group 2018 Organizer
