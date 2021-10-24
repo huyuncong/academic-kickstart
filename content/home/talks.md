@@ -70,7 +70,7 @@ subtitle = ""
 
 [Merkle^2: A Low-Latency Transparency Log System](https://www.youtube.com/watch?v=SdP4VRk-GD4)         
 Monday, May 24, 2021    
-**42nd IEEE Symposium on Security and Privacy (Oakland 2021)**           
+**42nd IEEE Symposium on Security and Privacy (S&P 2021)**           
 
 [Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.microsoft.com/en-us/research/event/microsoft-research-redmond-cryptography-colloquium/#!past-speakers)       
 Tuesday, Aug 25, 2020   
