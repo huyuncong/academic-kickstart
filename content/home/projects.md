@@ -76,7 +76,7 @@ subtitle = ""
 +++
 
 **Merkle^2: A Low-Latency Transparency Log System**           
-Published at Oakland 2021 (see above)    
+Published at S&P 2021 (see above)    
 Relevant GitHub repository: [Merkle^2](https://github.com/ucbrise/MerkleSquare)
 
 **Arkworks: An Ecosystem for Developing and Programming with zkSNARKs**      
