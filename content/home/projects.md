@@ -79,7 +79,7 @@ subtitle = ""
 Published at Oakland 2021 (see above)    
 Relevant GitHub repository: [Merkle^2](https://github.com/ucbrise/MerkleSquare)
 
-**arkworks: An ecosystem for developing and programming with zkSNARKs**      
+**Arkworks: An Ecosystem for Developing and Programming with zkSNARKs**      
 A rust library for zkSNARKs community       
 Relevant GitHub repository: [arkworks](https://github.com/arkworks-rs)   
 
