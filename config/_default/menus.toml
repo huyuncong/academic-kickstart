@@ -24,12 +24,17 @@
   weight = 40
 
 [[main]]
+    name = "Open-Source Projects"
+    url = "#projects"
+    weight = 49
+
+[[main]]
   name = "Talks"
   url = "#talks"
   weight = 50
 
 [[main]]
-  name = "Services"
+  name = "Service"
   url = "#services"
   weight = 55
 
