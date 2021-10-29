@@ -81,23 +81,23 @@ subtitle = ""
 
 [Merkle^2: A Low-Latency Transparency Log System](https://eprint.iacr.org/2021/453)     
 *Yuncong Hu*, Kian Hooshmand, Harika Kalidhindi, Seung Jin Yang, Raluca Ada Popa    
-**42nd IEEE Symposium on Security and Privacy (S&P 2021)**  
+**S&P 2021** (42nd IEEE Symposium on Security and Privacy)       
 
 <!-- [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]    -->
 
 [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047)    
 (alphabetical order) Alessandro Chiesa, *Yuncong Hu*, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward     
-**39th Annual International Conference on the Theory and Applications of Cryptographic Techniques (Eurocrypt 2020)**
+**Eurocrypt 2020** (39th Annual International Conference on the Theory and Applications of Cryptographic Techniques)    
 
 <!-- [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)] -->
 
 [Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)          
 (\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa      
-**17th USENIX Symposium on Networked Systems Design and Implementation (NSDI 2020)**  
+**NSDI 2020** (17th USENIX Symposium on Networked Systems Design and Implementation)          
 
 <!-- [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
 [[video](https://www.youtube.com/watch?v=r-5OZFerx9g)] [[code](https://github.com/ucbrise/jedi-protocol-go)] -->
 
 [JEDI: Many-to-Many End-to-End Encryption and Key Delegation for IoT](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)        
 Sam Kumar, *Yuncong Hu*, Michael P Andersen, Raluca Ada Popa, and David E. Culler  
-**28th USENIX Security Symposium (USENIX Security 2019)**
+**USENIX Security 2019** (28th USENIX Security Symposium)    
