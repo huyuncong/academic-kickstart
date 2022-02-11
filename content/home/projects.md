@@ -75,6 +75,10 @@ subtitle = ""
  css_class = ""
 +++
 
+**Gemini: Elastic SNARKs for Diverse Environments**     
+Published at Eurocrypt 2022 (see above)      
+Relevant GitHub repository: [Gemini](https://github.com/arkworks-rs/gemini)      
+
 **Merkle^2: A Low-Latency Transparency Log System**           
 Published at S&P 2021 (see above)    
 Relevant GitHub repository: [Merkle^2](https://github.com/ucbrise/MerkleSquare)
