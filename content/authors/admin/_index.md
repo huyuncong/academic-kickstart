@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: UC Berkeley
-  url: "https://cs.berkeley.edu/"
+- name: Shanghai Jiao Tong University
+#  url: "https://cs.berkeley.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include applied cryptography, decentralized systems, and zero-knowledge proofs.
