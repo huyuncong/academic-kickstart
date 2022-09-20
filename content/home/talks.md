@@ -68,6 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
+[Gemini: elastic SNARKs for diverse environments](https://www.youtube.com/watch?v=hTBTfRb2upM)  
+Thursday, June 24, 2022     
+**CMU Cylab Crypto Seminar 2022**       
+
 [Merkle^2: A Low-Latency Transparency Log System](https://www.youtube.com/watch?v=SdP4VRk-GD4)         
 Monday, May 24, 2021    
 **42nd IEEE Symposium on Security and Privacy (S&P 2021)**           

@@ -70,7 +70,10 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a CS Ph.D. student in the UC Berkeley [RISE Lab](https://rise.cs.berkeley.edu/), where I am co-advised by [Raluca Ada Popa](https://people.eecs.berkeley.edu/~raluca/) and [Alessandro Chiesa](http://people.eecs.berkeley.edu/~alexch/). My recent research interests are applied cryptography, decentralized systems, and zero-knowledge proofs.
+Hi! I am an assistant professor at Shanghai Jiao Tong University.
+My recent research interests are applied cryptography, decentralized systems, and zero-knowledge proofs.
+
+I received my CS Ph.D. at UC Berkeley [RISE Lab](https://rise.cs.berkeley.edu/), where I was co-advised by [Raluca Ada Popa](https://people.eecs.berkeley.edu/~raluca/) and [Alessandro Chiesa](http://people.eecs.berkeley.edu/~alexch/).
 
 I received my Bachelor's degree at Shanghai Jiao Tong University in 2017, where I was a member of the [ACM Honored Class](https://acm.sjtu.edu.cn/home).
 
