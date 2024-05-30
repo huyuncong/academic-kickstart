@@ -59,6 +59,7 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+  # Reviewer: TDSC 2022, CCS 2022, SOSP 2021, CRYPTO 2021, TDSC 2021, CRYPTO 2021, PKC 2021, SOSP 2021, S&P 2020, SOSP 2019, OSDI 2018, NSDI 2018  
 
 [advanced]
  # Custom CSS.
@@ -68,7 +69,7 @@ subtitle = ""
  css_class = ""
 +++
 
-# Reviewer: TDSC 2022, CCS 2022, SOSP 2021, CRYPTO 2021, TDSC 2021, CRYPTO 2021, PKC 2021, SOSP 2021, S&P 2020, SOSP 2019, OSDI 2018, NSDI 2018  
+
 Program Committee: Asiacrypt 2023, USENIX Security 2024  
 FCS 2020 Student Volunteer  
 UC Berkeley Graduate Application Student Reviewer 2018  
