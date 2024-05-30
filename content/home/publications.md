@@ -74,11 +74,11 @@ subtitle = ""
 
 A Succinct Range Proof for Polynomial-based Vector Commitment     
 Rui Gao, Zhiguo Wan, *Yuncong Hu*, Huaqun Wang    
-**CCS 2024**    
+**CCS 2024** (31st ACM Conference on Computer and Communications Security)    
 
 [A Verifiable and Privacy-Preserving Federated Learning Training Framework](https://ieeexplore.ieee.org/abstract/document/10444899)     
 Haohua Duan, Zedong Peng, Liyao Xiang, *Yuncong Hu*, Bo Li    
-**TDSC 2024**    
+**TDSC 2024** (IEEE Transactions on Dependable and Secure Computing)    
 
 <!-- [Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242)     
 (alphabetical order) Benedikt Bünz, *Yuncong Hu*, Shin’ichiro Matsuo and Elaine Shi   
