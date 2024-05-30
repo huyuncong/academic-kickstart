@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 # title = "Recent Publications"
-title = "Publications"
+title = "Selected Publications"
 subtitle = ""
 
 [content]
@@ -80,9 +80,9 @@ Rui Gao, Zhiguo Wan, *Yuncong Hu*, Huaqun Wang
 Haohua Duan, Zedong Peng, Liyao Xiang, *Yuncong Hu*, Bo Li    
 **TDSC 2024**    
 
-[Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242)     
+<!-- [Non-Interactive Differentially Anonymous Router](https://eprint.iacr.org/2021/1242)     
 (alphabetical order) Benedikt Bünz, *Yuncong Hu*, Shin’ichiro Matsuo and Elaine Shi   
-**In submission**     
+**In submission**      -->
 
 [Gemini: Elastic SNARKs for Diverse Environments](https://eprint.iacr.org/2022/420)     
 (alphabetical order) Jonathan Bootle, Alessandro Chiesa, *Yuncong Hu* and Michele Orrù    
