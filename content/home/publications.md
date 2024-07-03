@@ -85,7 +85,7 @@ Haohua Duan, Zedong Peng, Liyao Xiang, *Yuncong Hu*, Bo Li
 **In submission**      -->
 
 [Gemini: Elastic SNARKs for Diverse Environments](https://eprint.iacr.org/2022/420)     
-(alphabetical order) Jonathan Bootle, Alessandro Chiesa, *Yuncong Hu* and Michele Orrù    
+(alphabetical order authors) Jonathan Bootle, Alessandro Chiesa, *Yuncong Hu* and Michele Orrù    
 **Eurocrypt 2022** (41st Annual International Conference on the Theory and Applications of Cryptographic Techniques)         
 
 <!-- [[paper](https://eprint.iacr.org/2021/453)] [[video](https://www.youtube.com/watch?v=SdP4VRk-GD4)] [[code](https://github.com/ucbrise/MerkleSquare)]    -->
@@ -97,7 +97,7 @@ Haohua Duan, Zedong Peng, Liyao Xiang, *Yuncong Hu*, Bo Li
 <!-- [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]    -->
 
 [Marlin: Preprocessing zkSNARKs with Universal and Updatable SRS](https://eprint.iacr.org/2019/1047)    
-(alphabetical order) Alessandro Chiesa, *Yuncong Hu*, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward     
+(alphabetical order authors) Alessandro Chiesa, *Yuncong Hu*, Mary Maller, Pratyush Mishra, Noah Vesely, and Nicholas P. Ward     
 **Eurocrypt 2020** (39th Annual International Conference on the Theory and Applications of Cryptographic Techniques)    
 
 <!-- [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)] -->
