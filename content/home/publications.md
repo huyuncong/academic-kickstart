@@ -72,9 +72,13 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
-A Succinct Range Proof for Polynomial-based Vector Commitment     
+[A Succinct Range Proof for Polynomial-based Vector Commitment](https://eprint.iacr.org/2024/1016)     
 Rui Gao, Zhiguo Wan, *Yuncong Hu (corresponding authors)*, Huaqun Wang    
 **CCS 2024** (31st ACM Conference on Computer and Communications Security)    
+
+[Hadamard Product Argument from Lagrange-Based Univariate Polynomials](https://eprint.iacr.org/2024/613)      
+Jie Xie, *Yuncong Hu (corresponding authors)*, Yu Yu      
+**ACISP 2024** (29th Australasian Conference on Information Security and Privacy)    
 
 [A Verifiable and Privacy-Preserving Federated Learning Training Framework](https://ieeexplore.ieee.org/abstract/document/10444899)     
 Haohua Duan, Zedong Peng, Liyao Xiang, *Yuncong Hu*, Bo Li    
