@@ -73,7 +73,7 @@ subtitle = ""
 <!-- [[paper]]     -->
 
 A Succinct Range Proof for Polynomial-based Vector Commitment     
-Rui Gao, Zhiguo Wan, *Yuncong Hu*, Huaqun Wang    
+Rui Gao, Zhiguo Wan, *Yuncong Hu (corresponding authors)*, Huaqun Wang    
 **CCS 2024** (31st ACM Conference on Computer and Communications Security)    
 
 [A Verifiable and Privacy-Preserving Federated Learning Training Framework](https://ieeexplore.ieee.org/abstract/document/10444899)     
@@ -103,7 +103,7 @@ Haohua Duan, Zedong Peng, Liyao Xiang, *Yuncong Hu*, Bo Li
 <!-- [[paper](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)] [[video](https://www.youtube.com/watch?v=IxvDKAZvwmY&t=1051s)] -->
 
 [Ghostor: Toward a Secure Data-Sharing System from Decentralized Trust](https://www.usenix.org/system/files/nsdi20-paper-hu-yuncong.pdf)          
-(\*co-primary authors) *Yuncong Hu*\*, Sam Kumar\*, and Raluca Ada Popa      
+ *Yuncong Hu*, Sam Kumar, and Raluca Ada Popa      
 **NSDI 2020** (17th USENIX Symposium on Networked Systems Design and Implementation)          
 
 <!-- [[paper](https://www.usenix.org/system/files/sec19-kumar-sam.pdf)]
