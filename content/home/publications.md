@@ -72,12 +72,16 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
+Human-Readable Fingerprint for Large Language Models     
+Boyi Zeng, Lizheng Wang, *Yuncong Hu*, Yi Xu, Chenghu Zhou, Xinbing Wang, Yu Yu, Zhouhan Lin    
+**NeurIPS 2024** (38th Annual Conference on Neural Information Processing Systems)    
+
 [A Succinct Range Proof for Polynomial-based Vector Commitment](https://eprint.iacr.org/2024/1016)     
-Rui Gao, Zhiguo Wan, *Yuncong Hu (corresponding authors)*, Huaqun Wang    
+Rui Gao, Zhiguo Wan, *Yuncong Hu*, Huaqun Wang    
 **CCS 2024** (31st ACM Conference on Computer and Communications Security)    
 
 [Hadamard Product Argument from Lagrange-Based Univariate Polynomials](https://eprint.iacr.org/2024/613)      
-Jie Xie, *Yuncong Hu (corresponding authors)*, Yu Yu      
+Jie Xie, *Yuncong Hu*, Yu Yu      
 **ACISP 2024** (29th Australasian Conference on Information Security and Privacy)    
 
 [A Verifiable and Privacy-Preserving Federated Learning Training Framework](https://ieeexplore.ieee.org/abstract/document/10444899)     
