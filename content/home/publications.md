@@ -72,7 +72,12 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
-Human-Readable Fingerprint for Large Language Models     
+[DFS: Delegation-friendly zkSNARK and Private Delegation of
+Provers](https://eprint.iacr.org/2025/296.pdf)     
+*Yuncong Hu*, Pratyush Mishra, Xiao Wang, Jie Xie, Kang Yang,  Yu Yu, Yuwen Zhang    
+**USENIX Security 2025** (34th USENIX Security Symposium)   
+
+[HuRef: HUman-REadable Fingerprint for Large Language Models](https://arxiv.org/abs/2312.04828)     
 Boyi Zeng, Lizheng Wang, *Yuncong Hu*, Yi Xu, Chenghu Zhou, Xinbing Wang, Yu Yu, Zhouhan Lin    
 **NeurIPS 2024** (38th Annual Conference on Neural Information Processing Systems)    
 
