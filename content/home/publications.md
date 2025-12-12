@@ -77,6 +77,10 @@ Provers](https://eprint.iacr.org/2025/296.pdf)
 *Yuncong Hu*, Pratyush Mishra, Xiao Wang, Jie Xie, Kang Yang,  Yu Yu, Yuwen Zhang    
 **USENIX Security 2025** (34th USENIX Security Symposium)   
 
+[Plontank: An FPGA-based zk-SNARK Acceleration System for Secure Computing](https://www.sciencedirect.com/science/article/abs/pii/S0743731525001698)     
+Dahong Qian, Yiyang Xu, *Yuncong Hu*    
+**JPDC 2025** (Journal of Parallel and Distributed Computing)   
+
 [HuRef: HUman-REadable Fingerprint for Large Language Models](https://arxiv.org/abs/2312.04828)     
 Boyi Zeng, Lizheng Wang, *Yuncong Hu*, Yi Xu, Chenghu Zhou, Xinbing Wang, Yu Yu, Zhouhan Lin    
 **NeurIPS 2024** (38th Annual Conference on Neural Information Processing Systems)    
