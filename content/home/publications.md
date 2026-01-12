@@ -72,6 +72,10 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
+Distributed Vector Commitments and Their Applications     
+Rui Gao, Huaqun Wang, Zhiguo Wan, *Yuncong Hu*    
+**USENIX Security 2026** (35th USENIX Security Symposium)  
+
 [DFS: Delegation-friendly zkSNARK and Private Delegation of
 Provers](https://eprint.iacr.org/2025/296.pdf)     
 *Yuncong Hu*, Pratyush Mishra, Xiao Wang, Jie Xie, Kang Yang,  Yu Yu, Yuwen Zhang    
