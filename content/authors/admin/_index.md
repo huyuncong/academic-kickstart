@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor, Ph.D.@UC Berkeley
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
