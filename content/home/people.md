@@ -4,10 +4,10 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 51  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "Research Group"
 subtitle = ""
 
 [content]
@@ -54,3 +54,16 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+## Current
+
+- **Lizheng Wang** (PhD, 2024– )   
+- **Chongrong Li** (PhD, 2025– )   
+- **Haixing He** (Undergraduate, 2024– )  
+
+## Alumni
+
+- **Fengrun Liu** (RA, 2023–2025) —> PhD at CMU  
+- **Tianyu Zhang** (Undergraduate, 2023–2025) —> PhD at UIUC   
+- **Youwei Zhong** (Undergraduate, 2023–2025) —> PhD at Yale   
+- **Jie Xie** (Master, 2023–2025)   
