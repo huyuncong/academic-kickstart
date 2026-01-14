@@ -2,7 +2,7 @@
 # A "Meet the Team" section created with the People widget.
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
-widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 51  # Order that this section will appear.
@@ -27,8 +27,6 @@ subtitle = ""
 
   # Show user's interests? (true/false)
   show_interests = false
-
-  view = 2
 
 
 [design.background]
