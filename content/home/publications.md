@@ -72,9 +72,13 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
-Distributed Vector Commitments and Their Applications     
-Rui Gao, Huaqun Wang, Zhiguo Wan, *Yuncong Hu*    
-**USENIX Security 2026** (35th USENIX Security Symposium)  
+Distributed Vector Commitments and Their Applications
+Rui Gao, Huaqun Wang, Zhiguo Wan, *Yuncong Hu*<sup>✉</sup>
+**USENIX Security 2026** (35th USENIX Security Symposium)
+
+[Secure Lookup Tables: Faster, Leaner, and More General](https://eprint.iacr.org/2025/2109)
+Chongrong Li, Pengfei Zhu, Yun Li, Zhanpeng Guo, Jingyu Li, *Yuncong Hu*<sup>✉</sup>, Zhicong Huang, Cheng Hong
+**IEEE S&P 2026** (47th IEEE Symposium on Security and Privacy)
 
 [DFS: Delegation-friendly zkSNARK and Private Delegation of
 Provers](https://eprint.iacr.org/2025/296.pdf)     
@@ -82,7 +86,7 @@ Provers](https://eprint.iacr.org/2025/296.pdf)
 **USENIX Security 2025** (34th USENIX Security Symposium)   
 
 [Plontank: An FPGA-based zk-SNARK Acceleration System for Secure Computing](https://www.sciencedirect.com/science/article/abs/pii/S0743731525001698)     
-Dahong Qian, Yiyang Xu, *Yuncong Hu*    
+Dahong Qian, Yiyang Xu, *Yuncong Hu*<sup>✉</sup>
 **JPDC 2025** (Journal of Parallel and Distributed Computing)   
 
 [HuRef: HUman-REadable Fingerprint for Large Language Models](https://arxiv.org/abs/2312.04828)     
@@ -90,11 +94,11 @@ Boyi Zeng, Lizheng Wang, *Yuncong Hu*, Yi Xu, Chenghu Zhou, Xinbing Wang, Yu Yu,
 **NeurIPS 2024** (38th Annual Conference on Neural Information Processing Systems)    
 
 [A Succinct Range Proof for Polynomial-based Vector Commitment](https://eprint.iacr.org/2024/1016)     
-Rui Gao, Zhiguo Wan, *Yuncong Hu*, Huaqun Wang    
+Rui Gao, Zhiguo Wan, *Yuncong Hu*<sup>✉</sup>, Huaqun Wang
 **CCS 2024** (31st ACM Conference on Computer and Communications Security)    
 
 [Hadamard Product Argument from Lagrange-Based Univariate Polynomials](https://eprint.iacr.org/2024/613)      
-Jie Xie, *Yuncong Hu*, Yu Yu      
+Jie Xie, *Yuncong Hu*<sup>✉</sup>, Yu Yu
 **ACISP 2024** (29th Australasian Conference on Information Security and Privacy)    
 
 [A Verifiable and Privacy-Preserving Federated Learning Training Framework](https://ieeexplore.ieee.org/abstract/document/10444899)     
