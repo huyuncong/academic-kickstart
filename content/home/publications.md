@@ -117,7 +117,7 @@ Haohua Duan, Zedong Peng, Liyao Xiang, *Yuncong Hu*, Bo Li
 
 [Merkle^2: A Low-Latency Transparency Log System](https://eprint.iacr.org/2021/453)     
 *Yuncong Hu*, Kian Hooshmand, Harika Kalidhindi, Seung Jin Yang, Raluca Ada Popa    
-**S&P 2021** (42nd IEEE Symposium on Security and Privacy)       
+**IEEE S&P 2021** (42nd IEEE Symposium on Security and Privacy)       
 
 <!-- [[paper](https://eprint.iacr.org/2019/1047)] [[video](https://www.youtube.com/watch?v=3mZWa6tJaMI)] [[code](https://github.com/arkworks-rs/marlin)]    -->
 
