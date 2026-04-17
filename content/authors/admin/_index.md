@@ -44,7 +44,7 @@ bio: My research interests include applied cryptography, decentralized systems, 
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:huyuncong@sjtu.edu.cn  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
