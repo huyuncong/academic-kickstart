@@ -76,6 +76,10 @@ Distributed Vector Commitments and Their Applications
 Rui Gao, Huaqun Wang, Zhiguo Wan, *Yuncong Hu*<sup>✉</sup>    
 **USENIX Security 2026** (35th USENIX Security Symposium)
 
+HasteBoots: Proving TFHE Programmable Bootstrapping in Seconds     
+Fengrun Liu, Haofei Liang, Xiang Xie, Yu Yu, Wenting Zheng, *Yuncong Hu*<sup>✉</sup>    
+**USENIX Security 2026** (35th USENIX Security Symposium)
+
 [Secure Lookup Tables: Faster, Leaner, and More General](https://eprint.iacr.org/2025/2109)     
 Chongrong Li, Pengfei Zhu, Yun Li, Zhanpeng Guo, Jingyu Li, *Yuncong Hu*<sup>✉</sup>, Zhicong Huang, Cheng Hong    
 **IEEE S&P 2026** (47th IEEE Symposium on Security and Privacy)
