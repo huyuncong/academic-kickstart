@@ -72,12 +72,12 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
-Distributed Vector Commitments and Their Applications     
-Rui Gao, Huaqun Wang, Zhiguo Wan, *Yuncong Hu*<sup>✉</sup>    
+[HasteBoots: Proving TFHE Programmable Bootstrapping in Seconds](https://eprint.iacr.org/2025/261)     
+Fengrun Liu, Haofei Liang, Xiang Xie, Yu Yu, Wenting Zheng, *Yuncong Hu*<sup>✉</sup>    
 **USENIX Security 2026** (35th USENIX Security Symposium)
 
-HasteBoots: Proving TFHE Programmable Bootstrapping in Seconds     
-Fengrun Liu, Haofei Liang, Xiang Xie, Yu Yu, Wenting Zheng, *Yuncong Hu*<sup>✉</sup>    
+[Distributed Vector Commitments and Their Applications](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_gao.pdf)     
+Rui Gao, Huaqun Wang, Zhiguo Wan, *Yuncong Hu*<sup>✉</sup>    
 **USENIX Security 2026** (35th USENIX Security Symposium)
 
 [Secure Lookup Tables: Faster, Leaner, and More General](https://eprint.iacr.org/2025/2109)     
