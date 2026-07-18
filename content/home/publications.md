@@ -72,7 +72,7 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
-zkAgent: Verifiable LLM Agent Execution via One-Shot Transcript Proofs     
+[zkAgent: Verifiable LLM Agent Execution via One-Shot Transcript Proofs](https://eprint.iacr.org/2026/199)     
 Lizheng Wang, Hancheng Lou, Chongrong Li, Yu Yu, *Yuncong Hu*<sup>✉</sup>    
 **CCS 2026** (33rd ACM Conference on Computer and Communications Security)
 
