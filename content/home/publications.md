@@ -72,6 +72,10 @@ subtitle = ""
 +++
 <!-- [[paper]]     -->
 
+zkAgent: Verifiable LLM Agent Execution via One-Shot Transcript Proofs     
+Lizheng Wang, Hancheng Lou, Chongrong Li, Yu Yu, *Yuncong Hu*<sup>✉</sup>    
+**CCS 2026** (33rd ACM Conference on Computer and Communications Security)
+
 [HasteBoots: Proving TFHE Programmable Bootstrapping in Seconds](https://eprint.iacr.org/2025/261)     
 Fengrun Liu, Haofei Liang, Xiang Xie, Yu Yu, Wenting Zheng, *Yuncong Hu*<sup>✉</sup>    
 **USENIX Security 2026** (35th USENIX Security Symposium)
