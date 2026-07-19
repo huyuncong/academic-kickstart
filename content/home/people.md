@@ -61,10 +61,10 @@ subtitle = ""
 
 - **Lizheng Wang** (PhD, 2024– )   
 - **Chongrong Li** (PhD, 2025– )   
-- **Haixing He** (Undergraduate, 2024– )  
 
 ## Alumni
 
+- **Haixing He** (Undergraduate, 2024–2026) — Outstanding Bachelor's Thesis  
 - **Fengrun Liu** (RA, 2023–2025) —> PhD at CMU  
 - **Tianyu Zhang** (Undergraduate, 2023–2025) —> PhD at UIUC   
 - **Youwei Zhong** (Undergraduate, 2023–2025) —> PhD at Yale   
