@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am an assistant professor at Shanghai Jiao Tong University.
+Hi! I am an associate professor at Shanghai Jiao Tong University.
 My recent research interests are applied cryptography, decentralized systems, and zero-knowledge proofs.
 
 I received my CS Ph.D. at UC Berkeley [RISE Lab](https://rise.cs.berkeley.edu/), where I was co-advised by [Raluca Ada Popa](https://people.eecs.berkeley.edu/~raluca/) and [Alessandro Chiesa](http://people.eecs.berkeley.edu/~alexch/).
